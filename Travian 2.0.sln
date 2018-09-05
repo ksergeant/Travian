@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Travian_2.0", "Travian 2.0\Travian_2.0.csproj", "{3FECCAAB-0D6C-423D-AD1E-B5F055C84246}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0831A317-867F-4783-B78A-2312DF06B0E4}"
+	ProjectSection(SolutionItems) = preProject
+		Travian 2.0\bin\Debug\Connexion.pl = Travian 2.0\bin\Debug\Connexion.pl
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FECCAAB-0D6C-423D-AD1E-B5F055C84246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FECCAAB-0D6C-423D-AD1E-B5F055C84246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FECCAAB-0D6C-423D-AD1E-B5F055C84246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FECCAAB-0D6C-423D-AD1E-B5F055C84246}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

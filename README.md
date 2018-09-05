@@ -1,1 +1,1 @@
-Travian 2.0
+Travian2.0

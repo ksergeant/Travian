@@ -1,0 +1,16 @@
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\Travian 2.0.exe.config
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\Travian 2.0.exe
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\Travian 2.0.pdb
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian_2._0.Main1.resources
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian_2._0.Properties.Resources.resources
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.csproj.GenerateResource.Cache
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.exe
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.pdb
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\Travian 2.0.exe.manifest
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\bin\Debug\Travian 2.0.application
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.csprojResolveAssemblyReference.cache
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.exe.manifest
+C:\Users\Kévin\Desktop\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian 2.0.application
