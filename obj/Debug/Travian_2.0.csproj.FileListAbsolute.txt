@@ -21,3 +21,16 @@ X:\Sauvegarde petit pc\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travia
 X:\Sauvegarde petit pc\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian_2._0.Main1.resources
 X:\Sauvegarde petit pc\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian_2._0.Properties.Resources.resources
 X:\Sauvegarde petit pc\Programmation\C#\Travian 2.0\Travian 2.0\obj\Debug\Travian_2.0.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\bin\Debug\Travian2.0.exe.config
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\bin\Debug\Travian2.0.exe.manifest
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\bin\Debug\Travian2.0.application
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\bin\Debug\Travian2.0.exe
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\bin\Debug\Travian2.0.pdb
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian_2.0.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian_2._0.Main1.resources
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian_2._0.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian_2.0.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian2.0.exe.manifest
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian2.0.application
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian2.0.exe
+C:\Users\Kevin\Desktop\Travian2.0\Travian 2.0\obj\Debug\Travian2.0.pdb

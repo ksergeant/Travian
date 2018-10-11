@@ -25,12 +25,12 @@ my $outfile14 = "Village14.html";
 my $outfile15 = "Village15.html";
 
 #Url du Serveur
-my $serveur = "https://ts1.travian.fr/dorf1.php";
+my $serveur = "https://ts19.travian.fr";
 
 #Url des villages
-my $url1 = "https://ts1.travian.fr/dorf1.php?newdid=15140&";
-my $url2 = "https://ts1.travian.fr/dorf1.php?newdid=25221&";
-my $url3 = "https://ts1.travian.fr/dorf1.php?newdid=33104&";
+my $url1 = "https://ts19.travian.fr/spieler.php?newdid=17775&";
+my $url2 = "";
+my $url3 = "";
 my $url4 = "";
 my $url5 = "";
 my $url6 = "";
@@ -45,8 +45,8 @@ my $url14 = "";
 my $url15 = "";
 
 #Identifiant du compte
-my $username = 'nom d'utilisateur';
-my $password = 'mdp';
+my $username = 'mdp';
+my $password = 'password';
 
 #Declaration du mech
 my $mech = WWW::Mechanize->new();
@@ -77,8 +77,8 @@ $mech->click;
 
 #Traitement des pages Html
 Traitement($url1,$outfile1);
-Traitement($url2,$outfile2);
-Traitement($url3,$outfile3);
+#Traitement($url2,$outfile2);
+#Traitement($url3,$outfile3);
 #Traitement($url4,$outfile4);
 #Traitement($url5,$outfile5);
 #Traitement($url6,$outfile6);

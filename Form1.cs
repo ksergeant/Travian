@@ -549,7 +549,7 @@ namespace Travian_2._0
 
         private void buttonDemarrer_Click(object sender, EventArgs e)
         {
-            Init();
+           // Init();
             compteur = compteur + 1;
 
             string CheminDuFichier1 = "Villages\\Village1.html";
@@ -563,9 +563,10 @@ namespace Travian_2._0
             string CheminDuFichier9 = "Villages\\Village9.html";
             string CheminDuFichier10 = "Villages\\Village10.html";
             string CheminDuFichier11 = "Villages\\Village11.html";
-        
+            
 
             Village MonVillage = new Village();
+            
             Village MonVillage2 = new Village();
             Village MonVillage3 = new Village();
             Village MonVillage4 = new Village();
@@ -576,6 +577,7 @@ namespace Travian_2._0
             Village MonVillage9 = new Village();
             Village MonVillage10 = new Village();
             Village MonVillage11 = new Village();
+            Village MonVillage12 = new Village();
 
             if (compteur > 1)
             {
@@ -598,14 +600,13 @@ namespace Travian_2._0
             TraitementVillage(CheminDuFichier3, MonVillage3,   452, 0);
             TraitementVillage(CheminDuFichier4, MonVillage4,   678, 0);
             TraitementVillage(CheminDuFichier5, MonVillage5,   904, 0);
-
             TraitementVillage(CheminDuFichier6, MonVillage6,     0, 266);
             TraitementVillage(CheminDuFichier7, MonVillage7,   226, 266);
             TraitementVillage(CheminDuFichier8, MonVillage8,   452, 266);
             TraitementVillage(CheminDuFichier9, MonVillage9,   678, 266);
             TraitementVillage(CheminDuFichier10, MonVillage10, 904, 266);
             TraitementVillage(CheminDuFichier11, MonVillage11,   0, 532); 
-           
+            
 
             this.groupView1 = MonVillage.groupBoxVillage;
             this.groupView2 = MonVillage2.groupBoxVillage;
@@ -633,6 +634,7 @@ namespace Travian_2._0
             this.Controls.Add(groupView9);
             this.Controls.Add(groupView10);
             this.Controls.Add(groupView11);
+
             
             this.button1.Show();
             this.textBoxSecondes.Show();

@@ -68,9 +68,9 @@
             this.toolStripStatusLabel2,
             this.ModeAutoLabel,
             this.StatusAutoLabel});
-            this.statusStrip1.Location = new System.Drawing.Point(-3, 598);
+            this.statusStrip1.Location = new System.Drawing.Point(-3, 799);
             this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(1136, 24);
+            this.statusStrip1.Size = new System.Drawing.Size(1135, 24);
             this.statusStrip1.TabIndex = 0;
             this.statusStrip1.Text = "statusStrip1";
             // 
@@ -113,7 +113,7 @@
             this.buttonDemarrer.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonDemarrer.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.buttonDemarrer.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonDemarrer.Location = new System.Drawing.Point(980, 496);
+            this.buttonDemarrer.Location = new System.Drawing.Point(979, 697);
             this.buttonDemarrer.Name = "buttonDemarrer";
             this.buttonDemarrer.Size = new System.Drawing.Size(139, 36);
             this.buttonDemarrer.TabIndex = 1;
@@ -126,7 +126,7 @@
             this.buttonClose.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.buttonClose.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.buttonClose.BackColor = System.Drawing.SystemColors.Control;
-            this.buttonClose.Location = new System.Drawing.Point(980, 549);
+            this.buttonClose.Location = new System.Drawing.Point(979, 750);
             this.buttonClose.Name = "buttonClose";
             this.buttonClose.Size = new System.Drawing.Size(139, 36);
             this.buttonClose.TabIndex = 2;
@@ -227,7 +227,7 @@
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.button1.BackColor = System.Drawing.SystemColors.Control;
-            this.button1.Location = new System.Drawing.Point(820, 496);
+            this.button1.Location = new System.Drawing.Point(819, 697);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(139, 36);
             this.button1.TabIndex = 3;
@@ -239,7 +239,7 @@
             // 
             this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(621, 548);
+            this.label1.Location = new System.Drawing.Point(620, 749);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(181, 13);
             this.label1.TabIndex = 4;
@@ -248,7 +248,7 @@
             // textBoxSecondes
             // 
             this.textBoxSecondes.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.textBoxSecondes.Location = new System.Drawing.Point(855, 545);
+            this.textBoxSecondes.Location = new System.Drawing.Point(854, 746);
             this.textBoxSecondes.Name = "textBoxSecondes";
             this.textBoxSecondes.Size = new System.Drawing.Size(67, 20);
             this.textBoxSecondes.TabIndex = 5;
@@ -265,7 +265,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
             this.BackColor = System.Drawing.SystemColors.ButtonShadow;
-            this.ClientSize = new System.Drawing.Size(1131, 621);
+            this.ClientSize = new System.Drawing.Size(1130, 822);
             this.Controls.Add(this.textBoxSecondes);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);

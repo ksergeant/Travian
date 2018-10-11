@@ -115,7 +115,7 @@ namespace Travian_2._0
             this.groupBoxVillage.Controls.Add(this.pictureBox6);
             this.groupBoxVillage.Controls.Add(this.pictureBox7);
 
-            this.groupBoxVillage.BackColor = System.Drawing.Color.DarkSlateBlue;
+            this.groupBoxVillage.BackColor = System.Drawing.Color.RoyalBlue;
             this.groupBoxVillage.Location = new System.Drawing.Point(10, 10);
             this.groupBoxVillage.RightToLeft = System.Windows.Forms.RightToLeft.No;
             this.groupBoxVillage.Size = new System.Drawing.Size(226, 267);
