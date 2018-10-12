@@ -49,6 +49,7 @@
             this.groupView9 = new System.Windows.Forms.GroupBox();
             this.groupView10 = new System.Windows.Forms.GroupBox();
             this.groupView11 = new System.Windows.Forms.GroupBox();
+            this.groupView12 = new System.Windows.Forms.GroupBox();
             this.button1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxSecondes = new System.Windows.Forms.TextBox();
@@ -222,6 +223,14 @@
             this.groupView11.TabIndex = 0;
             this.groupView11.TabStop = false;
             // 
+            // groupView12
+            // 
+            this.groupView12.Location = new System.Drawing.Point(0, 0);
+            this.groupView12.Name = "groupView12";
+            this.groupView12.Size = new System.Drawing.Size(200, 100);
+            this.groupView12.TabIndex = 0;
+            this.groupView12.TabStop = false;
+            // 
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -264,7 +273,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.BackColor = System.Drawing.SystemColors.ButtonShadow;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1130, 822);
             this.Controls.Add(this.textBoxSecondes);
             this.Controls.Add(this.label1);
@@ -300,6 +309,7 @@
         private System.Windows.Forms.GroupBox groupView9;
         private System.Windows.Forms.GroupBox groupView10;
         private System.Windows.Forms.GroupBox groupView11;
+        private System.Windows.Forms.GroupBox groupView12;
         private System.Windows.Forms.ToolStripStatusLabel ValueTime;
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel2;
         private System.Windows.Forms.ToolStripStatusLabel ModeAutoLabel;

@@ -21,6 +21,7 @@ namespace Travian_2._0
         public int FerManquant { get; set; }
         public int CerealesManquant { get; set; }
         public int DepotManquant { get; set; }
+
         
 
         public System.Windows.Forms.GroupBox groupBoxVillage { get; set; }

@@ -59,7 +59,7 @@ namespace Travian_2._0
             this.ValueTime.Text = "Le script s'est exécuté à " + DateTime.Now.TimeOfDay.ToString("hh\\:mm\\:ss"); 
         }
 
-        Village TraitementVillage(string CheminDuFichier, Village MonVillage, int x ,int y)
+        Village TraitementVillage(string CheminDuFichier, Village MonVillage, int x , int y)
         {
             HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             doc.Load(CheminDuFichier);
@@ -563,7 +563,8 @@ namespace Travian_2._0
             string CheminDuFichier9 = "Villages\\Village9.html";
             string CheminDuFichier10 = "Villages\\Village10.html";
             string CheminDuFichier11 = "Villages\\Village11.html";
-            
+            string CheminDuFichier12 = "Villages\\Village12.html";
+
 
             Village MonVillage = new Village();
             
@@ -592,7 +593,8 @@ namespace Travian_2._0
                 this.Controls.Remove(groupView9);
                 this.Controls.Remove(groupView10);
                 this.Controls.Remove(groupView11);
-                
+                this.Controls.Remove(groupView12);
+
             }
             
             TraitementVillage(CheminDuFichier1, MonVillage,      0, 0);
@@ -605,8 +607,9 @@ namespace Travian_2._0
             TraitementVillage(CheminDuFichier8, MonVillage8,   452, 266);
             TraitementVillage(CheminDuFichier9, MonVillage9,   678, 266);
             TraitementVillage(CheminDuFichier10, MonVillage10, 904, 266);
-            TraitementVillage(CheminDuFichier11, MonVillage11,   0, 532); 
-            
+            TraitementVillage(CheminDuFichier11, MonVillage11,   0, 532);
+            TraitementVillage(CheminDuFichier12, MonVillage12,   226, 532);
+
 
             this.groupView1 = MonVillage.groupBoxVillage;
             this.groupView2 = MonVillage2.groupBoxVillage;
@@ -619,7 +622,8 @@ namespace Travian_2._0
             this.groupView9 = MonVillage9.groupBoxVillage;
             this.groupView10 = MonVillage10.groupBoxVillage;
             this.groupView11 = MonVillage11.groupBoxVillage;
-            
+            this.groupView12 = MonVillage12.groupBoxVillage;
+
             Time(sender);
 
             //MessageBox.Show("Affichage des villages");
@@ -634,8 +638,9 @@ namespace Travian_2._0
             this.Controls.Add(groupView9);
             this.Controls.Add(groupView10);
             this.Controls.Add(groupView11);
+            this.Controls.Add(groupView12);
 
-            
+
             this.button1.Show();
             this.textBoxSecondes.Show();
             this.label1.Show();
